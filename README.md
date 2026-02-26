@@ -27,3 +27,5 @@
   - SQL / PostgreSQL storage for research‑grade time series.
 - I use this OI engine not as a toy, but as a **live risk and confirmation tool** that sits next to my systematic strategies and helps me understand when the market regime supports or contradicts my models.
 
+- ![OI desk DemoImages](OI_Analysis.png)
+
